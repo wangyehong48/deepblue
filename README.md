@@ -6,7 +6,7 @@
 
 本仓库提供软件下载、地图场景下载和使用说明。
 
-[下载软件与地图场景](../../releases) · [快速上手](#快速上手) · [问题反馈](../../issues)
+[下载 Windows 软件](https://github.com/wangyehong48/deepblue/releases/latest/download/DeepBlue-TimePause-0.6.0.exe) · [下载地图场景](#地图场景) · [快速上手](#快速上手) · [问题反馈](https://github.com/wangyehong48/deepblue/issues)
 
 ## 可以做什么
 
@@ -18,15 +18,20 @@
 
 ## 下载
 
-进入本仓库右侧的 **Releases（发行版）**，或点击上方的下载入口。每个版本的发布说明会列出可下载的文件及对应内容。
+**当前版本：0.6.0 · Windows x64 · 免费使用。**
+
+[下载深蓝 EXE](https://github.com/wangyehong48/deepblue/releases/latest/download/DeepBlue-TimePause-0.6.0.exe) · [查看全部下载附件](https://github.com/wangyehong48/deepblue/releases/latest) · [下载校验值](https://github.com/wangyehong48/deepblue/releases/latest/download/SHA256SUMS.txt)
+
+下载 EXE 后双击启动，无需安装开发环境。地图场景请从下方选择并完整解压，再通过软件的「打开场景目录」载入。
+
+也可以进入本仓库右侧的 **Releases（发行版）**。每个版本的发布说明会列出可下载的文件及对应内容。
 
 | 下载内容 | 适合谁 |
 | --- | --- |
 | 软件包（EXE 或包含 EXE 的压缩包） | 首次使用，或更新软件 |
 | 地图场景包 | 已有软件，希望体验更多战役 |
-| 完整体验包（如该版本提供） | 希望一次下载软件和示例场景 |
 
-请在发行版的 **Assets（附件）** 中下载软件和场景。页面自动生成的 `Source code (zip)` 和 `Source code (tar.gz)` 是仓库内容压缩包，不能作为软件运行。
+请在发行版的 **Assets（附件）** 中选择 EXE 和对应的场景压缩包。
 
 软件目前提供 Windows 桌面版。地图场景以各发行版实际提供的附件为准；下载前请查看发布说明中的软件版本要求。
 
@@ -53,6 +58,14 @@
 | 打开其他场景 | 点击「打开场景目录」 |
 
 ## 地图场景
+
+| 场景 | 战役年份 | 下载 |
+| --- | --- | --- |
+| 滑铁卢：皇帝的最后一战 | 1815 | [下载场景包](https://github.com/wangyehong48/deepblue/releases/latest/download/DeepBlue-waterloo-1815-scene-v1.zip) |
+| 奥斯特里茨：三皇会战 | 1805 | [下载场景包](https://github.com/wangyehong48/deepblue/releases/latest/download/DeepBlue-austerlitz-1805-scene-v1.zip) |
+| 博罗季诺：通往莫斯科的战役 | 1812 | [下载场景包](https://github.com/wangyehong48/deepblue/releases/latest/download/DeepBlue-borodino-1812-scene-v1.zip) |
+
+三个场景包均附带所需图片和模型。奥斯特里茨与博罗季诺为公开发行副本，未包含素材记录中未获转载授权的电影或新闻片段。
 
 场景可以包含战场范围、部队与据点、行动路线、历史事件、讲解素材和镜头轨道。具体内容、推荐播放速度与历史资料来源，请查看场景附带的说明。
 
@@ -104,13 +117,13 @@
 
 深蓝免费使用，欢迎下载体验、制作自己的地图场景，并用于历史学习与讲解。
 
-场景中的图片、视频、模型及地图数据可能来自第三方，其使用条件以随附的许可与来源说明为准。制作或分享场景时，请保留相关署名，并遵守对应素材的使用条件。
+场景中的图片、视频、模型及地图数据可能来自第三方，其使用条件以随附的许可与来源说明为准。制作或分享场景时，请保留相关署名，并遵守对应素材的使用条件。程序的第三方许可和地图数据署名见 [第三方许可附件](https://github.com/wangyehong48/deepblue/releases/latest/download/ThirdPartyNotices.zip)。
 
 历史场景中的部队位置、行动时间和艺术素材用于辅助理解战役；涉及近似还原或艺术表现的部分，以场景说明为准。
 
 ## 问题反馈
 
-遇到问题或有功能建议，欢迎在本仓库的 [Issues](../../issues) 中反馈。
+遇到问题或有功能建议，欢迎在本仓库的 [Issues](https://github.com/wangyehong48/deepblue/issues) 中反馈。
 
 为了方便复现，请尽量附上：
 
